@@ -18,6 +18,7 @@
             <li><a href="quienes.jsp">Quines Somos</a></li>
             <li><a href="servicios.jsp">Servicios</a></li>
             <li><a href="portafolios.jsp">Potafolios</a></li>
+            <li><a href="preguntas.jsp">PREGUNTAS</a></li>
             <li><a href="Contactos.jsp">Contactos llamanos</a></li>
         </ul>
     </body>
